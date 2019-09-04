@@ -1,0 +1,1332 @@
+/home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mkenv.mk:59: warning: undefined variable 'HOST_PLATFORM'
+/home/renze/ESP32-platform-firmware/esp-idf/make/component_wrapper.mk:219: warning: overriding recipe for target 'libmicropython.a'
+/home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mkrules.mk:132: warning: ignoring old recipe for target 'libmicropython.a'
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/malloc.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/gc.h:31,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/gc.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/pystack.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/qstr.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/vstr.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mphal.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpprint.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/unicode.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/unicode.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpz.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpz.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/reader.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/reader.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/lexer.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/lexer.h:31,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/parse.c:34:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/parse.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/scope.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/scope.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/parse.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/scope.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/compile.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/lexer.h:31,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emit.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emitcommon.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emitbc.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/asmbase.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/asmx64.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/asmx86.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/asmthumb.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/lexer.h:31,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emit.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emitinlinethumb.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/asmarm.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/asmxtensa.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/lexer.h:31,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emit.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emitinlinextensa.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/formatfloat.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/parsenumbase.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/parsenum.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emitglue.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emitglue.c:34:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/reader.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/persistentcode.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/parsenum.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime_utils.c:28:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/scheduler.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/nativeglue.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/stackctrl.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/argcheck.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/lexer.h:31,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emit.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/warning.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/map.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objarray.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objtuple.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objattrtuple.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objbool.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objboundmeth.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objcell.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objclosure.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/parsenum.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objcomplex.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objdeque.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objdict.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objenumerate.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objlist.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objexcept.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objfilter.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/parsenum.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objfloat.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objtuple.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objfun.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objgenerator.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objgetitemiter.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/parsenum.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objint.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/smallint.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objint_longlong.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/parsenumbase.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objint_mpz.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objlist.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objlist.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objmap.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objmodule.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objmodule.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objtype.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objobject.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objpolyiter.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objproperty.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objnone.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objtuple.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objnamedtuple.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objrange.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objreversed.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objset.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objsingleton.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objslice.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/unicode.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objstr.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objstr.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objstrunicode.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objstr.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objstringio.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objtuple.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objtuple.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objtype.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objtype.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objtuple.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objzip.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/opmethods.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/sequence.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objstr.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/stream.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/binary.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/binary.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/lexer.h:31,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/compile.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtinimport.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objfun.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtinevex.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtin.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtinhelp.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtin.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/modarray.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/smallint.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/modbuiltins.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtin.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/modcollections.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/modgc.c:28:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/modio.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtin.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/modmath.c:28:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtin.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/modcmath.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtin.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/modmicropython.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/modstruct.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtin.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/modsys.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/moduerrno.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/modthread.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mphalport.h:72,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/vm.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/bc.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/bc.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/showbc.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/repl.c:28:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/smallint.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/smallint.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/lexer.h:31,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/frozenmod.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/moductypes.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objlist.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/modujson.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/modure.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/moduzlib.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objlist.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/moduheapq.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/objlist.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/modutimeq.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/moduhashlib.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/modubinascii.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/extmod/virtpin.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/virtpin.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/machine_mem.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/machine_pinbase.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/machine_signal.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/machine_pulse.c:28:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/modussl_mbedtls.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/modurandom.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/moduselect.c:28:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/modwebsocket.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/modframebuf.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/vfs.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/vfs_reader.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/utime_mphal.c:29:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../lib/embed/abort_.c:1:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/vfs_native.c:34:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/vfs_native_file.c:37:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/../extmod/vfs_native_misc.c:37:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/lexer.h:31,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emit.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/emitnative.c:49:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/stackctrl.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/main.c:43:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/main.c:64:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/uart.h:1:2: warning: #warning rom/uart.h is deprecated, please use esp32/rom/uart.h instead [-Wcpp]
+ #warning rom/uart.h is deprecated, please use esp32/rom/uart.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/uart.c:35:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/gccollect.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mphalport.c:38:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/uart.h:1:2: warning: #warning rom/uart.h is deprecated, please use esp32/rom/uart.h instead [-Wcpp]
+ #warning rom/uart.h is deprecated, please use esp32/rom/uart.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mphalport.c:43:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtin.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/help.c:30:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/extmod/utime_mphal.h:31,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modutime.c:35:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/moduos.c:39:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_timer.c:34:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_i2c.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_pin.c:35:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_touchpad.c:36:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_adc.c:43:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_dac.c:47:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/nlr.h:35,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_pwm.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_uart.h:5,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_uart.c:35:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modmachine.c:40:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modmachine.c:41:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/rtc.h:1:2: warning: #warning rom/rtc.h is deprecated, please use esp32/rom/rtc.h instead [-Wcpp]
+ #warning rom/rtc.h is deprecated, please use esp32/rom/rtc.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modmachine.c:42:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/gpio.h:1:2: warning: #warning rom/gpio.h is deprecated, please use esp32/rom/gpio.h instead [-Wcpp]
+ #warning rom/gpio.h is deprecated, please use esp32/rom/gpio.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modmachine.c:51:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/uart.h:1:2: warning: #warning rom/uart.h is deprecated, please use esp32/rom/uart.h instead [-Wcpp]
+ #warning rom/uart.h is deprecated, please use esp32/rom/uart.h instead
+  ^~~~~~~
+/home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modmachine.c:57:10: fatal error: esp_wifi.h: No such file or directory
+ #include "esp_wifi.h"
+          ^~~~~~~~~~~~
+compilation terminated.
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/nlr.h:35,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modnetwork.c:44:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+/home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modnetwork.c:50:10: fatal error: esp_wifi.h: No such file or directory
+ #include "esp_wifi.h"
+          ^~~~~~~~~~~~
+compilation terminated.
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/nlr.h:35,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modsocket.c:41:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modsocket.c:50:
+/home/renze/ESP32-platform-firmware/esp-idf/components/tcpip_adapter/include/tcpip_adapter.h:20:10: fatal error: esp_wifi_types.h: No such file or directory
+ #include "esp_wifi_types.h"
+          ^~~~~~~~~~~~~~~~~~
+compilation terminated.
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/moduhashlib.c:26:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpthreadport.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpsleep.c:36:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpsleep.c:41:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/rtc.h:1:2: warning: #warning rom/rtc.h is deprecated, please use esp32/rom/rtc.h instead [-Wcpp]
+ #warning rom/rtc.h is deprecated, please use esp32/rom/rtc.h instead
+  ^~~~~~~
+/home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_rtc.c:35:10: fatal error: apps/sntp/sntp.h: No such file or directory
+ #include "apps/sntp/sntp.h"
+          ^~~~~~~~~~~~~~~~~~
+compilation terminated.
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modymodem.c:38:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modymodem.c:47:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/crc.h:1:2: warning: #warning rom/crc.h is deprecated, please use esp32/rom/crc.h instead [-Wcpp]
+ #warning rom/crc.h is deprecated, please use esp32/rom/crc.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modymodem.c:52:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/uart.h:1:2: warning: #warning rom/uart.h is deprecated, please use esp32/rom/uart.h instead [-Wcpp]
+ #warning rom/uart.h is deprecated, please use esp32/rom/uart.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_ulp.c:28:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/nlr.h:35,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/machine_ow.c:40:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modesp.c:35:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modesp.c:38:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/rtc.h:1:2: warning: #warning rom/rtc.h is deprecated, please use esp32/rom/rtc.h instead [-Wcpp]
+ #warning rom/rtc.h is deprecated, please use esp32/rom/rtc.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/builtin.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modconsts.c:4:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modmpr121.c:5:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/moderc12864.c:5:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modneopixel.c:5:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modssd1306.c:5:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modeink.c:5:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+/home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modespnow.c:32:10: fatal error: esp_now.h: No such file or directory
+ #include "esp_now.h"
+          ^~~~~~~~~~~
+compilation terminated.
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/moddisobeysamd.c:5:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modframebuffer.c:5:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modsndmixer.c:5:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modmpu6050.c:5:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mperrno.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/modi2c.c:5:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/extmod/modbtree.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/lib/mp-readline/readline.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpstate.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/runtime.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/lib/netutils/netutils.c:32:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/lib/timeutils/timeutils.c:28:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/lexer.h:31,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/compile.h:29,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/lib/utils/pyexec.c:33:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/lib/utils/interrupt_char.c:27:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/lib/utils/sys_stdio_mphal.c:31:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+In file included from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mpconfigport.h:32,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mpconfig.h:45,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/py/obj.h:30,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/mphalport.h:72,
+                 from /home/renze/ESP32-platform-firmware/firmware/components/micropython/esp32/libs/ow/ds18b20.c:51:
+/home/renze/ESP32-platform-firmware/esp-idf/components/esp32/include/rom/ets_sys.h:1:2: warning: #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead [-Wcpp]
+ #warning rom/ets_sys.h is deprecated, please use esp32/rom/ets_sys.h instead
+  ^~~~~~~
+make[1]: *** [/home/renze/ESP32-platform-firmware/firmware/components/micropython/py/mkrules.mk:76: /home/renze/ESP32-platform-firmware/firmware/build/genhdr/qstr.i.last] Error 1
+make[1]: *** Deleting file '/home/renze/ESP32-platform-firmware/firmware/build/genhdr/qstr.i.last'
+make: *** [../esp-idf/make/project.mk:584: component-micropython-build] Error 2

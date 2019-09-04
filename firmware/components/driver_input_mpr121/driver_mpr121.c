@@ -224,7 +224,7 @@ static esp_err_t nvs_baseline_helper(uint8_t idx, uint32_t *value)
 		ESP_LOGE(TAG, "NVS baseline index out of range: %d", idx);
 		return -1;
 	}
-	char key[14];
+	char key[16];
 	sprintf(key, "mpr121.base.%d", idx);
 	uint16_t v;
 	nvs_handle my_handle;
@@ -383,7 +383,7 @@ static esp_err_t configure_gpios(void)
 #ifdef CONFIG_MPR121_ELE11_OUTPUT_HIGH_ONLY
 	if (driver_mpr121_configure_gpio(11, MPR121_OUTPUT_HIGH_ONLY) < 0) return ESP_FAIL;
 #endif
-	esp_err_t res;
+	esp_err_t res = ESP_OK;
 #if defined(CONFIG_MPR121_OUTPUT_DEFAULT_ON_4)
 	res = driver_mpr121_set_gpio_level(4, 1);
 	if (res != ESP_OK) return res;
@@ -416,7 +416,7 @@ static esp_err_t configure_gpios(void)
 	res = driver_mpr121_set_gpio_level(11, 1);
 	if (res != ESP_OK) return res;
 #endif
-	return ESP_OK;
+	return res;
 }
 
 esp_err_t driver_mpr121_init(void)

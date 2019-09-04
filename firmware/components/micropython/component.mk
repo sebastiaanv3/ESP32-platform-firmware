@@ -122,6 +122,16 @@ MP_EXTRA_INC += -I$(IDF_PATH)/components/lwip/lwip/src/include
 MP_EXTRA_INC += -I$(IDF_PATH)/components/lwip/include/apps
 MP_EXTRA_INC += -I$(IDF_PATH)/components/lwip/port/esp32/include
 MP_EXTRA_INC += -I$(IDF_PATH)/components/lwip/include_compat
+MP_EXTRA_INC += -I$(IDF_PATH)/components/esp_rom/include
+MP_EXTRA_INC += -I$(IDF_PATH)/components/esp_common/include
+MP_EXTRA_INC += -I$(IDF_PATH)/components/esp_eth/include
+MP_EXTRA_INC += -I$(IDF_PATH)/components/esp_wifi/include
+MP_EXTRA_INC += -I$(IDF_PATH)/components/xtensa/include
+MP_EXTRA_INC += -I$(IDF_PATH)/components/xtensa/esp32/include
+MP_EXTRA_INC += -I$(IDF_PATH)/components/fatfs/vfs
+MP_EXTRA_INC += -I$(IDF_PATH)/components/fatfs/diskio
+MP_EXTRA_INC += -I$(IDF_PATH)/components/lwip/include/apps/sntp
+MP_EXTRA_INC += -I$(IDF_PATH)/components/lwip/include
 
 ifdef CONFIG_MICROPY_USE_BLUETOOTH
 MP_EXTRA_INC += -I$(ESPCOMP)/bt/include

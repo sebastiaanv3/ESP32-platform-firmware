@@ -8,7 +8,7 @@
 #include "apps/sntp/sntp.h"
 #include "driver/rtc_io.h"
 #include "esp_log.h"
-#include "rom/crc.h"
+#include "esp32/rom/crc.h"
 
 #include <esp_log.h>
 #include <esp_err.h>
