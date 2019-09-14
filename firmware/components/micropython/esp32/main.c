@@ -125,6 +125,14 @@ void mp_task(void *pvParameter)
 
     // Initialize the MicroPython heap
     gc_init(mp_task_heap, mp_task_heap + mpy_heap_size);
+	uint8_t *heap2 = NULL;
+	for (size_t heap_size = 520 * 1024; heap_size >= 8 * 1024; heap_size -= 1024) {
+		heap2 = malloc(heap_size);
+		if (heap2 != NULL) {
+			gc_add(heap2, heap2 + heap_size);
+			break;
+		}
+	}
 
     // Initialize MicroPython environment
     mp_init();
