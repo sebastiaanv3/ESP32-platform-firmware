@@ -70,6 +70,7 @@ void platform_init()
 	INIT_DRIVER(sdcard       , "SDCARD"     ) //SD card driver
 	INIT_DRIVER(lora         , "LORA"       ) //LoRa modem driver
 	INIT_DRIVER(am2320       , "AM2320"     ) //AM2320 sensor driver
+    INIT_DRIVER(lis2dh12     , "LIS2DH12"   ) //LIS2DH12 sensor driver
 	fflush(stdout);
 	vTaskDelay(100 / portTICK_PERIOD_MS); //Give things time to settle.
 }

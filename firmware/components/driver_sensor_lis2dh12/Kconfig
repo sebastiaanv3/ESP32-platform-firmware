@@ -1,0 +1,6 @@
+menu "Driver: LIS2DH12 I2C accelerometer"
+    config DRIVER_LIS2DH12_ENABLE
+        depends on DRIVER_I2C_ENABLE
+        bool "Enable the LIS2DH12 I2C driver"
+        default n
+endmenu

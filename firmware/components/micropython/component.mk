@@ -282,6 +282,11 @@ MP_EXTRA_INC += -I$(PROJECT_PATH)/components/driver_sensor_am2320/include
 SRC_C += esp32/modam2320.c
 endif
 
+ifdef CONFIG_DRIVER_LIS2DH12_ENABLE
+MP_EXTRA_INC += -I$(PROJECT_PATH)/components/driver_sensor_lis2dh12/include
+SRC_C += esp32/modlis2dh12.c
+endif
+
 EXTMOD_SRC_C = $(addprefix extmod/,\
 	modbtree.c \
 	moducryptolib.c \
