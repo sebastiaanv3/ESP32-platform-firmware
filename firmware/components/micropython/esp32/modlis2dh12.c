@@ -88,8 +88,6 @@ STATIC mp_obj_t lis2dh12_disable_tap() {
 }
 STATIC MP_DEFINE_CONST_FUN_OBJ_0(lis2dh12_disable_tap_obj, lis2dh12_disable_tap);
 
-//TODO: add the others
-
 // Define all properties of the lis2dh12 module.
 STATIC const mp_rom_map_elem_t lis2dh12_module_globals_table[] = {
     { MP_ROM_QSTR(MP_QSTR___name__), MP_ROM_QSTR(MP_QSTR_lis2dh12) },

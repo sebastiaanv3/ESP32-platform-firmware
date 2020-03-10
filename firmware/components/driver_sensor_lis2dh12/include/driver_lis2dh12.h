@@ -12,11 +12,48 @@
 
 #include "lis2dh12_reg.h"
 
+extern bool isConnected(void);
+
 lis2dh12_ctx_t dev_ctx;
 
-__BEGIN_DECLS
+bool xIsFresh;
+bool yIsFresh;
+bool zIsFresh;
+bool tempIsFresh;
 
-// TODO: implement them all ;-)
+// required to convert readings to mg
+uint8_t currentScale;
+uint8_t currentMode;
+
+float accelX;
+float accelY;
+float accelZ;
+
+uint16_t rawX;
+uint16_t rawY;
+uint16_t rawZ;
+
+float temperatureC;
+
+// settings
+uint8_t getDataRate(void);
+void setDataRate(uint8_t dataRate);
+
+uint8_t getScale(void);
+void setScale(uint8_t scale);
+
+uint8_t getMode(void);
+void setMode(uint8_t mode);
+
+// blocking wait
+extern void waitForNewData(void);
+bool available(void);
+
+// sensor data
+void parseAccelData(void);
+void getTempData(void);
+
+__BEGIN_DECLS
 
 extern esp_err_t driver_lis2dh12_init(void);
 
